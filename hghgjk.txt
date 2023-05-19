@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>Elnara Zhanibekova</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</style>
+</head>
+<body>
+<h1>Welcome to Elnara's Web Page</h1>
+<img src="https://levardo.com/gallery/sun9-7.userapi.com/c624218/v624218668/2b221/sWi_m78OJKg.jpg"        style="width:50px;height:70px;"><br>
+<p>Let me introduce <em>myself</
+em> </p>
+<p> 	I am an first year student at 
+<strong>Astana IT University</strong> </p>
+<hr>
+<h2>My Favorite Foods </h2>
+<ul>
+<li>Pizza</li>
+<li>Meat</li>
+<li>Pie</li>
+</ul>
+<h2>My Favorite Books</h2>
+<ol>
+<li>The Great Gatsby</li>
+<li>The Hungry games</li>
+<li>The Harry Poter</li>
+</ol>
+
+<h2>My Favorite Subjects</h2>
+<ol>
+<li>Calculus 1</li>
+<li>Coding web</li>
+<li>Hacking lab</li>
+</ol>
+
+<h2>My Favorite People </h2>
+<ul>
+<li>Yerzhan Baissalov</li>
+<li>My Mum</li>
+<li>Myself</li>
+</ul>
+<br>
+<img src="https://leksikabookstore.com/uploads/06-0030F.jpg"    style="width:250px;height:300px;"><br>
+<a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">Click here to go to Wikipedia</a>
+<div>
+<div>
+<h3>Contact Me</h3>
+<form>
+<label for="name">Name:</label>
+<input type="text" id="name" name="name"><br>
+<label for="email">Email:</label>
+<input type="email" id="email" name="email"><br>
+<label for="message">Message:</label><br>
+<textarea id="message" name="message"></textarea><br>
+<input type="submit" value="Submit">
+
+<h3>About Me</h3>
+<p> I am a great student with 4.0 gpa. I am a leader everywhere. So, be with me</p>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Elnara</td>
+    <td>Dilnaz</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>18</td>
+  </tr>
+</table>
+<input type="submit" value="Submit">
+</form>
+</div>
+</body>
+</html> 
